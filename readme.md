@@ -20,7 +20,7 @@ Cross-platform nativa usando javascript
 
 ## React native tiene algo que ver con react a secas?
 
-#Complementos de react
+# Complementos de react
 gestos tactiles:
 
 - QuoJS
@@ -32,7 +32,6 @@ Enrutador:
 - Director
 - react-router
 - SPArouter
-- 
 
 
 
@@ -77,6 +76,11 @@ Una vez se ha descargado todo
 `react-native run ios`
 
 si no funciona hay que comprobar que el servidor esté en marcha
-`react-native
+`react-native start`
+
+Abrimos la carpeta con nuestro editor (en nuestro caso sublimeText)
+
+[Tutorial que vamos a seguir](https://facebook.github.io/react-native/docs/tutorial.html#content)
 
 
+![](img/iphone.png)
